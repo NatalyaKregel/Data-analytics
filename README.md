@@ -16,5 +16,5 @@ https://datalens.yandex/jmm63tsvhtcs2?_share_link=public
 :point_right: [ссылка на проект №5.3 - Dashboard_DOTA_2]
 https://datalens.yandex/sv0nbfm8coiqb?_share_link=public
 
-:point_right: [ссылка на проект №5.4 - Dashboard_Real estate market]
+:point_right: [ссылка на проект №5.4 - Dashboard_Real_estate_market]
 https://datalens.yandex/qvcm2qlem4ny9?_share_link=public
